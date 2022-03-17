@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/example-client/example-client.iml" filepath="$PROJECT_DIR$/example-client/example-client.iml" />
+      <module fileurl="file://$PROJECT_DIR$/example-server/example-server.iml" filepath="$PROJECT_DIR$/example-server/example-server.iml" />
+      <module fileurl="file://$PROJECT_DIR$/hello-service-api/hello-service-api.iml" filepath="$PROJECT_DIR$/hello-service-api/hello-service-api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/rpc.iml" filepath="$PROJECT_DIR$/rpc.iml" />
+      <module fileurl="file://$PROJECT_DIR$/rpc-framework-common/rpc-framework-common.iml" filepath="$PROJECT_DIR$/rpc-framework-common/rpc-framework-common.iml" />
+      <module fileurl="file://$PROJECT_DIR$/rpc-framework-simple/rpcframeworksimple.iml" filepath="$PROJECT_DIR$/rpc-framework-simple/rpcframeworksimple.iml" />
+    </modules>
+  </component>
+</project>

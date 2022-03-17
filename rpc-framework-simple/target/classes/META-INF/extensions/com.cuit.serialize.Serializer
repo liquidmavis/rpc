@@ -1,0 +1,1 @@
+protostuff = com.cuit.serialize.impl.ProtostuffSerializer

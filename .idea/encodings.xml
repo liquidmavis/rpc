@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding" native2AsciiForPropertiesFiles="true" defaultCharsetForPropertiesFiles="UTF-8">
+    <file url="file://$PROJECT_DIR$/../rpc" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../rpc/example-client" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../rpc/example-server" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../rpc/hello-service-api" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../rpc/rpc-framework-common" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../rpc/rpc-framework-simple" charset="UTF-8" />
+  </component>
+</project>
